@@ -1,4 +1,4 @@
-library flut_micro_app_dependencies;
+library flut_micro_commons_dependencies;
 
 export 'package:flutter_modular/flutter_modular.dart';
 export 'package:flutter_mobx/flutter_mobx.dart';
