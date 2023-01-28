@@ -6,3 +6,4 @@ export 'package:url_strategy/url_strategy.dart';
 export 'package:dio/dio.dart';
 export 'package:shared_preferences/shared_preferences.dart';
 export 'package:google_fonts/google_fonts.dart';
+export 'package:fluttertoast/fluttertoast.dart';
