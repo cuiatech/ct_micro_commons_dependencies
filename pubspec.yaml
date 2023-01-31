@@ -19,6 +19,7 @@ dependencies:
   google_fonts: 4.0.0
   fluttertoast: 8.1.2
   responsive_ui: 3.0.0
+  responsive_grid: 2.1.0
   
   
 
