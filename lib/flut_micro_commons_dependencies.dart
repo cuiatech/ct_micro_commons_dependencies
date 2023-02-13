@@ -10,3 +10,4 @@ export 'package:google_fonts/google_fonts.dart';
 export 'package:fluttertoast/fluttertoast.dart';
 export 'package:responsive_ui/responsive_ui.dart';
 export 'package:responsive_grid/responsive_grid.dart' hide scale;
+export 'package:skeletons/skeletons.dart';
